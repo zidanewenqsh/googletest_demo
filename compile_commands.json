@@ -1,0 +1,16 @@
+[
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-Wall",
+            "-g",
+            "-pthread",
+            "-o",
+            "mock_database_test",
+            "mock_database_test.cpp"
+        ],
+        "directory": "/home/hjimi/Projects/googletest_demo",
+        "file": "mock_database_test.cpp"
+    }
+]
